@@ -1,0 +1,55 @@
+.container{
+    font-size: 34px;
+    color: blue;
+}
+/* .box{
+    background-color: lightgreen;
+    width: 50vw;
+    height: 50vh;
+    font-size: 20px;
+} */
+.container2{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+}
+li {
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+header{
+    background-color: maroon;
+    height: 20px;
+    padding: 20px;
+
+}
+nav ul li {
+  margin-right: 20px;
+}
+nav {
+  text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    text-align: center;
+}
+.box{
+    background-color: rgb(126, 11, 67);
+    width: 10vw;
+    height: 35vh;
+    font-size: 20px;
+    position: relative;
+    
+}
